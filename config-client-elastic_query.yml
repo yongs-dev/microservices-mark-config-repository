@@ -16,5 +16,5 @@ elastic-config:
 
 user-config:
   username: test
-  password: ENC(Ygugwl8r/ffdka57Le0tt82ZPwJRECjB8udyzNODQckyxqQJKeVy43ETKw9PBpYJ)
+  password: '{cipher}f2667da0dc65cefd56a7285070a1ca2dba3636a8034161058de9f673c5ab65d4'
   roles: USER
