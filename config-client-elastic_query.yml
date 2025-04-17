@@ -4,7 +4,7 @@ elastic-query-service:
 server:
   port: 8183
   servlet:
-    context-path: /
+    context-path: /elastic-query-service
 
 elastic-query-config:
   text-field: text
